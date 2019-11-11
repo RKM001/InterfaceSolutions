@@ -1,0 +1,11 @@
+C:\Users\rupesh.mandal\source\repos\InterfaceExample\InterfaceExample\bin\Debug\netcoreapp2.2\InterfaceExample.deps.json
+C:\Users\rupesh.mandal\source\repos\InterfaceExample\InterfaceExample\bin\Debug\netcoreapp2.2\InterfaceExample.runtimeconfig.json
+C:\Users\rupesh.mandal\source\repos\InterfaceExample\InterfaceExample\bin\Debug\netcoreapp2.2\InterfaceExample.runtimeconfig.dev.json
+C:\Users\rupesh.mandal\source\repos\InterfaceExample\InterfaceExample\bin\Debug\netcoreapp2.2\InterfaceExample.dll
+C:\Users\rupesh.mandal\source\repos\InterfaceExample\InterfaceExample\bin\Debug\netcoreapp2.2\InterfaceExample.pdb
+C:\Users\rupesh.mandal\source\repos\InterfaceExample\InterfaceExample\obj\Debug\netcoreapp2.2\InterfaceExample.csproj.CoreCompileInputs.cache
+C:\Users\rupesh.mandal\source\repos\InterfaceExample\InterfaceExample\obj\Debug\netcoreapp2.2\InterfaceExample.AssemblyInfoInputs.cache
+C:\Users\rupesh.mandal\source\repos\InterfaceExample\InterfaceExample\obj\Debug\netcoreapp2.2\InterfaceExample.AssemblyInfo.cs
+C:\Users\rupesh.mandal\source\repos\InterfaceExample\InterfaceExample\obj\Debug\netcoreapp2.2\InterfaceExample.dll
+C:\Users\rupesh.mandal\source\repos\InterfaceExample\InterfaceExample\obj\Debug\netcoreapp2.2\InterfaceExample.pdb
+C:\Users\rupesh.mandal\source\repos\InterfaceExample\InterfaceExample\obj\Debug\netcoreapp2.2\InterfaceExample.csprojAssemblyReference.cache
